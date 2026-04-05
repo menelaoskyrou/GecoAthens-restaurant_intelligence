@@ -1,0 +1,87 @@
+═══════════════════════════════════════════════════════════════
+  RESTAURANT INTELLIGENCE — DEPLOY GUIDE
+  Multi-year analytics: 2023 · 2024 · 2025 · 2026
+═══════════════════════════════════════════════════════════════
+
+Your app includes 700 days of real data across 4 years.
+Deploy it online in ~10 minutes. Everything is FREE.
+
+────────────────────────────────────────────────────────────────
+STEP 1 — Create a free GitHub account (skip if you have one)
+────────────────────────────────────────────────────────────────
+1. Go to https://github.com
+2. Click "Sign up" → enter email, password, username
+3. Confirm your email
+
+────────────────────────────────────────────────────────────────
+STEP 2 — Create a new GitHub repository
+────────────────────────────────────────────────────────────────
+1. Log in to GitHub
+2. Click "+" (top right) → "New repository"
+3. Name it: restaurant-intelligence
+4. Set to: Public
+5. Check "Add a README file"
+6. Click "Create repository"
+
+────────────────────────────────────────────────────────────────
+STEP 3 — Upload the app files
+────────────────────────────────────────────────────────────────
+1. On your new repo page, click "uploading an existing file"
+2. Upload ALL files from this folder:
+   - index.html
+   - package.json
+   - vite.config.js
+   - The src/ folder (contains main.js)
+   - The public/ folder (contains manifest.json and sw.js)
+3. Scroll down → click "Commit changes"
+
+────────────────────────────────────────────────────────────────
+STEP 4 — Create a free Vercel account
+────────────────────────────────────────────────────────────────
+1. Go to https://vercel.com
+2. Click "Sign Up" → "Continue with GitHub"
+   (this connects both accounts automatically)
+
+────────────────────────────────────────────────────────────────
+STEP 5 — Deploy on Vercel
+────────────────────────────────────────────────────────────────
+1. In Vercel, click "Add New Project"
+2. Find "restaurant-intelligence" → click "Import"
+3. Framework Preset: select "Vite"
+4. Click "Deploy"
+5. Wait ~60 seconds…
+6. 🎉 Your app is live! URL example: restaurant-intelligence.vercel.app
+
+────────────────────────────────────────────────────────────────
+STEP 6 — Install on Windows PC (optional, works like a real app)
+────────────────────────────────────────────────────────────────
+1. Open your Vercel URL in Chrome
+2. Look for the install icon (⊕) in the address bar
+3. Click it → "Install"
+4. The app appears in your Start Menu — opens like any program
+5. Works offline too!
+
+────────────────────────────────────────────────────────────────
+WHAT'S IN THE APP
+────────────────────────────────────────────────────────────────
+📊 Overview     — KPIs, monthly chart, segment donut, weekday bars
+📅 Year vs Year — Full YoY comparison, growth %, Q1 comparison,
+                  month vs month, weekday trends, segment shifts
+💰 Revenue      — Full timeline, distribution, editable table
+🍽 Segments     — Breakfast/Lunch/Afternoon/Dinner/Bar breakdown
+🗓 Heatmap      — Calendar view with hover details
+📋 Log          — All 700+ records, add new days, edit, delete
+
+EXPORT: ⬇ Excel (3 sheets: daily, year summary, YoY) | ⬇ PDF
+
+────────────────────────────────────────────────────────────────
+DAILY USE
+────────────────────────────────────────────────────────────────
+1. Open your app URL on any device
+2. Click "+ Add Day" after each service
+3. Enter Gross per meal period (Net auto-fills at 86%)
+4. Save — data persists in browser storage
+5. Export to Excel/PDF anytime
+
+Need help? Come back to Claude and describe exactly where you
+got stuck — I'll walk you through it step by step.

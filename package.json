@@ -1,0 +1,20 @@
+{
+  "name": "restaurant-intelligence",
+  "version": "2.0.0",
+  "description": "Multi-year Restaurant Analytics Software",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chart.js": "4.4.0",
+    "xlsx": "0.18.5",
+    "jspdf": "2.5.1",
+    "jspdf-autotable": "3.8.2",
+    "vite": "5.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
